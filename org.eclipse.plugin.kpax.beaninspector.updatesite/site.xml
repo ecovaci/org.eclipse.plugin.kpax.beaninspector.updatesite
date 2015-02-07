@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipse.plugin.kpax.beaninspector.feature_1.2.8.jar" id="org.eclipse.plugin.kpax.beaninspector.feature" version="1.2.8">
+   <feature url="features/org.eclipse.plugin.kpax.beaninspector.feature_1.2.9.jar" id="org.eclipse.plugin.kpax.beaninspector.feature" version="1.2.9">
       <category name="editor_tools_id"/>
    </feature>
    <category-def name="editor_tools_id" label="Editor Tools"/>
